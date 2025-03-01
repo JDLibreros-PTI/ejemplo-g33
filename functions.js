@@ -1,6 +1,4 @@
 function saludar(){
-    alert("Hola Alumnos");
+    alert("Hola Alumnos, como estan");
     document.getElementById("main_title").display = "none";
-    alert("Segunda alerta ");
-    alert("Tercera alerta ");
 }

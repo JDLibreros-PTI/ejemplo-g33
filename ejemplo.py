@@ -1,4 +1,4 @@
-x = input("Hola, cual es tu nombre: ")
+x = input("Hola, cual es tu nombre completo: ")
 y = input("Cual es tu edad: ")
 
 print(f"Hola, {x}, que tengas un excelente dia")
